@@ -104,8 +104,7 @@ if (!isset($_SESSION['user_id'])) {
 - Admin dashboard for viewing orders and managing menu
 - Responsive design with Bootstrap
 
-![Chat UI](Project_Files/Screenshot2.png)
-
+![Chat UI](Project_Files/screenshot1.png)
 ---
 
 ## 🧰 Tools Used
