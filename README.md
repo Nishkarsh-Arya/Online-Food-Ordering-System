@@ -105,8 +105,6 @@ if (!isset($_SESSION['user_id'])) {
 - Responsive design with Bootstrap
 
 ![Chat UI](Project_Files/screenshot1.png)
-
-
 ![Chat UI](Project_Files/screenshot2.png)
 
 
